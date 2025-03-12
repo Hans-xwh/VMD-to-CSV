@@ -9,5 +9,5 @@ Simple script to convert a VMD file into a CSV table, and vice versa.
 'vmd to csv.py' [input.vmd] [output.csv]
 'vmd to csv.py' [input.csv] [output.vmd]
 
-###w To show the system file picker to select the input file) 
+### To show the system file picker to select the input file) 
 'vmd to csv.py' [output.vmd/.csv]   
