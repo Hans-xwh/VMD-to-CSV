@@ -19,7 +19,7 @@ Simple script to convert a VMD file into a CSV table, and vice versa.
 ```
 
 ## Useful references
-Here are some websites with explanations that helped me the VMD binary structure.  
+Here are some websites with explanations that helped me understand the VMD binary structure.  
 
 https://mikumikudance.fandom.com/wiki/VMD_file_format  
 https://blog.goo.ne.jp/torisu_tetosuki/e/bc9f1c4d597341b394bd02b64597499d  
