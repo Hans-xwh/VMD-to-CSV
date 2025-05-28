@@ -1,5 +1,5 @@
 # VMD-to-CSV
-Simple script to convert a VMD file into a CSV table, and vice versa. 
+Simple script to convert a VMD (Vocaloid Motion Data) file into a CSV table, and vice versa. 
 
 # Usage
 ### Running with no arguments will show the system file picker  
